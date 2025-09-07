@@ -1,7 +1,7 @@
 # Sales Data Analysis (Python Project)
 
 ## Objective
-Sample sales dataset का analysis करके monthly revenue, top products और trends पता लगाना।  
+Analyzed a sample sales dataset to identify monthly revenue, top-selling products, and regional sales trends.
 
 ## Tools Used
 - Python  
@@ -10,6 +10,6 @@ Sample sales dataset का analysis करके monthly revenue, top products 
 - Jupyter Notebook  
 
 ## Key Insights
-- फरवरी में revenue सबसे ज्यादा था  
-- Laptops सबसे ज्यादा बिकने वाला product रहा  
-- North region में sales बेहतर रही  
+- February recorded the highest revenue  
+- Laptops were the top-selling product  
+- Sales performance in the North region was the best
