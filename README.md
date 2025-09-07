@@ -1,5 +1,15 @@
-# testrepo
+# Sales Data Analysis (Python Project)
 
-## Editing the file
+## Objective
+Sample sales dataset का analysis करके monthly revenue, top products और trends पता लगाना।  
 
-Its a markdown file in this repository.
+## Tools Used
+- Python  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook  
+
+## Key Insights
+- फरवरी में revenue सबसे ज्यादा था  
+- Laptops सबसे ज्यादा बिकने वाला product रहा  
+- North region में sales बेहतर रही  
